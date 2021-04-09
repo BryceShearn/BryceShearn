@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects to refine my JS skills**
 
-- 👨‍💻 All of my projects are available at [www.findbryce.com]
+- 👨‍💻 All of my projects are available at [findbryce.com]
 
 - 📝 I regularly write articles on [Coding Coverage](Coding Coverage)
 
