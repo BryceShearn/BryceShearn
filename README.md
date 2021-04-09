@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects to refine my JS skills**
 
-- 👨‍💻 All of my projects are available at [www.findbryce.com](www.findbryce.com)
+- 👨‍💻 All of my projects are available at [findbryce.com][www.findbryce.com]
 
 - 📝 I regularly write articles on [Coding Coverage](Coding Coverage)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Bryce_Shearn@yahoo.com**
 
-- 📄 Know about my experiences [let's chat! (Bryce_shearn@yahoo.com)](let's chat! (Bryce_shearn@yahoo.com))
+- 📄 Know about my experiences [let's chat! (Bryce_shearn@yahoo.com)]
 
 - ⚡ Fun fact **I love the outdoors, and photography!**
 
