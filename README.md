@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **Java, Spring, SQL, Angular**
 
-- 📫 How to reach me **Bryce_Shearn@yahoo.com**
-
-- 📄 Know about my experiences [let's chat! (Bryce_shearn@yahoo.com)]
+- 📫 How to reach me or learn about my experiences **Bryce_Shearn@yahoo.com**
 
 - ⚡ Fun fact **I love the outdoors, and photography!**
 
