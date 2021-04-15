@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryce Shearn</h1>
-<h3 align="center">I'm a passionate Full-Stack Java Front End Developer from Florida looking to relocate to Portland, Oregon!</h3>
+<h3 align="center">I'm a passionate Full-Stack Java Developer from Florida looking to relocate to Portland, Oregon!</h3>
 
 - 🔭 I’m currently working on **Coding Coverage**
 
