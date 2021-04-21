@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.FindBryce.com]
 
-- 📝 I regularly write articles on [Coding Coverage]
+- 📝 I regularly write articles on [Cluster Cafe]!
 
 - 💬 Ask me about **Java, Spring, SQL, Angular**
 
