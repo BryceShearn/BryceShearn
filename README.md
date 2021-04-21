@@ -2,15 +2,13 @@
 <h3 align="center">I'm a passionate Full-Stack Java Developer from Florida relocating to Portland, Oregon!</h3>
 <br />
 
-- 🔭 I’m currently working on **Coding Coverage**
+- 🔭 I’m currently working on **Cluster Cafe**
 
 - 🌱 I’m currently learning **Angular In-Depth**
 
 - 👯 I’m looking to collaborate on **Projects to refine my JS skills**
 
 - 👨‍💻 All of my projects are available at [www.FindBryce.com]
-
-- 📝 I regularly write articles on [Cluster Cafe]!
 
 - 💬 Ask me about **Java, Spring, SQL, Angular**
 
