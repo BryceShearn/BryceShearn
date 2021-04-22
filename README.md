@@ -14,7 +14,7 @@
 
 - 📫 How to reach me or learn about my experiences **Bryce_Shearn@yahoo.com**
 
-- ⚡ Fun fact **I love the outdoors and photography!**
+- ⚡ Fun fact **I love the outdoors and photography! Aspiring Pilot hobbyist :small_airplane:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
