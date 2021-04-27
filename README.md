@@ -29,5 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryceshearn&show_icons=true&locale=en&layout=compact" alt="bryceshearn" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryceshearn&show_icons=true&locale=en" alt="bryceshearn" /></p>
+Day #43 of my <strike>100 day</strike> life-long coding challenge :slightly_smiling_face:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryceshearn&" alt="bryceshearn" /></p>
  
