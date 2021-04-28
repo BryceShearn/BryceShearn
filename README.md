@@ -4,13 +4,13 @@
  
 - 🔭 I’m currently working on **Cluster Cafe**
 
-- 🌱 I’m currently learning **Angular In-Depth**
+- 🌱 I’m currently learning **JavaScript / TypeScript via Angular** 
 
-- 👯 I’m looking to collaborate on **Projects to refine my JS skills**
+- 👯 I’m looking to collaborate on **Projects to refine my TypeScript / JavaScript skills**
 
 - 👨‍💻 All of my projects are available at [www.FindBryce.com]
 
-- 💬 Ask me about **Java, Spring, SQL, Angular**
+- 💬 Ask me about **Java, Spring, SQL, Angular, JavaScript, TypeScript**
 
 - 📫 How to reach me or learn about my experiences **Bryce_Shearn@yahoo.com**
 
