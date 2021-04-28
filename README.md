@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript / TypeScript via Angular** 
 
-- 👯 I’m looking to collaborate on **Projects to refine my TypeScript / JavaScript skills**
+- 👯 I’m looking to collaborate on **Projects to refine my JavaScript / TypeScript skills**
 
 - 👨‍💻 All of my projects are available at [www.FindBryce.com]
 
