@@ -15,7 +15,7 @@
 - 📫 How to reach me or learn about my experiences **Bryce_Shearn@yahoo.com**
 
 - ⚡ Fun fact **I love the outdoors and photography! Aspiring Pilot hobbyist :small_airplane:**
-
+<br /><br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bryceshearn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bryceshearn" height="30" width="40" /></a>
