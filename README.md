@@ -30,13 +30,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryceshearn&show_icons=true&locale=en&layout=compact" alt="bryceshearn" /></p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 Day #43 of my <strike>100 day</strike> life-long coding challenge :slightly_smiling_face:<br />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BryceShearn&theme=radical)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryceShearn&show_icons=true&theme=radical)
 
-
-Day #43 of my <strike>100 day</strike> life-long coding challenge :slightly_smiling_face:
-<br />
 
 
  
