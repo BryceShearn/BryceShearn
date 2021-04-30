@@ -31,5 +31,6 @@
 <br /><br /><br /><br /><br /><br /><br /><br />
 Day #43 of my <strike>100 day</strike> life-long coding challenge :slightly_smiling_face:
 <br /><br />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BryceShearn&theme=radical)](https://git.io/streak-stats)
  
