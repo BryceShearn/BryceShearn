@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [www.FindBryce.com]
 
 - 💬 Ask me about **Java, Spring, SQL, Angular, JavaScript, TypeScript**
-
+ 
 - 📫 How to reach me or learn about my experiences **Bryce_Shearn@yahoo.com**
  
 - ⚡ Fun fact **I love the outdoors and photography! Aspiring Pilot hobbyist :small_airplane:**
