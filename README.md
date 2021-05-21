@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryce Shearn</h1>
 <h3 align="center">I'm a passionate Full-Stack Java Developer from Florida relocating to Portland, Oregon!</h3>
 <br /> 
-      
+       
 - 🔭 I’m currently working on **Cluster Cafe**
  
 - 🌱 I’m currently learning **JavaScript / TypeScript via Angular** 
